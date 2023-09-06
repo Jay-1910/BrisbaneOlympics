@@ -1,0 +1,9 @@
+{
+  "account"   : "bk93265.ap-southeast-2",
+  "user"      : "JAY_DTA_AWS",
+  "password"  : "Jayvpatel31",
+  "role"      : "ACCOUNTADMIN",
+  "warehouse" : "DASH_L",
+  "database"  : "DASH_DB",
+  "schema"    : "DASH_SCHEMA"
+}

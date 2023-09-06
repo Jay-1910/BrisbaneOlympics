@@ -1,0 +1,22 @@
+Ferry ,STREETNAME,ADJ_PROPERTY_ADDRESS,SUBURB,EASTING,NORTHING,Latitude,Longitude,SERVICE_TYPE,BIKE_RACK,PARKING,NEARBY_BUS_SERVICES
+UQ St Lucia ferry terminal,Sir William Macgregor Dr,342 CARMODY RD,ST LUCIA,501931.56,6958543.02,-27.496751,153.019555,CityCat,No,Yes - on-street restricted,Yes
+West End ferry terminal,Hoogley St,55 HOOGLEY ST,WEST END,500318.37,6959246.99,-27.490396,153.003223,CityCat,Yes,Yes - on-street,Yes
+Guyatt Park ferry terminal,Macquarie St,46 HIRON ST,ST LUCIA,500216.72,6959028.78,-27.492366,153.002194,CityCat,Yes,Yes - limited and on-street,Yes
+Regatta ferry terminal,Coronation Dr,566 CORONATION DR,TOOWONG,499692.57,6960032.55,-27.483304,152.996888,CityCat,Yes,No,Yes
+Milton ferry terminal,Coronation Dr,299 CORONATION DR,MILTON,500543.38,6961096.45,-27.473699,153.0055,CityCat,No,No,Yes
+North Quay ferry terminal,Queens Wharf Rd,15 QUEENS WHARF RD,BRISBANE CITY,502226.49,6961196.06,-27.472798,153.022536,"CityCat, CityHopper",No,No,Yes
+QUT Gardens Point ferry terminal,Gardens Point Rd,59 GARDENS POINT RD,BRISBANE CITY,502591.8,6960564.51,-27.478499,153.026235,CityCat,No,Yes - off-street restricted,No
+Maritime Museum ferry terminal,Lower River Tce,77 LOWER RIVER TCE,KANGAROO POINT,502851.34,6960180.53,-27.481965,153.028863,CityHopper,No,Yes - on-street restricted,No
+Riverside ferry terminal,Eagle St,32 MACROSSAN ST,BRISBANE CITY,503088.35,6961830.02,-27.467073,153.031258,"CityCat, CityHopper, Cross River Ferry",No,No,Yes
+Holman Street ferry terminal,Holman St,126 HOLMAN ST,KANGAROO POINT,503310.01,6961981.04,-27.465709,153.033501,"CityHopper, Cross River Ferry",Yes,Yes - on street restricted,No
+Howard Smith Wharves ferry terminal,Bowen Tce,5 BOUNDARY ST,FORTITUDE VALLEY,503711.33,6962254.74,-27.463237,153.037562,CityHopper,No,Yes - off street restricted,No
+Sydney Street ferry terminal,Sydney St,112 OXLADE DR,NEW FARM,504167.97,6960975.46,-27.474785,153.042188,"CityCat, CityHopper",Yes,Yes - on-street,Yes
+Mowbray Park ferry terminal,Park Av,31 PARK AVE,EAST BRISBANE,504273.29,6960697.51,-27.477294,153.043255,CityCat,Yes,Yes - off-street,No
+New Farm Park ferry terminal,Brunswick St,1042 BRUNSWICK ST,NEW FARM,505202.8,6961322.77,-27.471646,153.052661,CityCat,Yes,Yes - off-street,Yes
+Hawthorne ferry terminal,Gordon St,14 GORDON ST,HAWTHORNE,505249.93,6962482.47,-27.461176,153.053133,CityCat,Yes,Yes - on-street,Yes
+Bulimba ferry terminal,Oxford St,2 OXFORD ST,BULIMBA,505152.79,6963642.46,-27.450704,153.052145,"CityCat, Cross River Ferry",Yes,Yes - on-street,Yes
+Teneriffe ferry terminal,Commercial Rd,17 SKYRING TCE,TENERIFFE,504885.74,6963516.96,-27.451838,153.049443,"CityCat, Cross River Ferry",Yes,Yes - on-street restricted,Yes
+Bretts Wharf ferry terminal,Kingsford Smith Dr,449 KINGSFORD SMITH DR,HAMILTON,506334.05,6964797.53,-27.440271,153.064093,CityCat,No,Yes - on-street restricted,Yes
+Apollo Road ferry terminal,Apollo St,3 BYRON ST,BULIMBA,506305.13,6964477.54,-27.44316,153.063802,CityCat,Yes,Yes - on-street,Yes
+Northshore Hamilton ferry terminal,Macarthur Avenue,305 MACARTHUR AVE,HAMILTON,508280.43,6964222.49,-27.445452,153.083792,CityCat,Yes,Yes - on-street,Yes
+South Bank ferry terminal,Clem Jones Promanade,153 STANLEY ST,SOUTH BRISBANE,502206.67,6960857.12,-27.475858,153.022336,"CityCat, CityHopper",No,No,No
