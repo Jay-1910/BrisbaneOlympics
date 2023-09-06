@@ -28,7 +28,7 @@ def filter_df_and_save_by_sport(sport):
     df = pd.read_csv('venues_all_cities.csv')
     filtered_data = df[df['Sports'].str.contains(sport, case=False, na=False)]
     if not filtered_data.empty:
-        m = folium.Map(location=[filtered_data['Latitude'].mean(), filtered_data['Longitude'].mean()], zoom_start=5)
+        m = folium.Map(location=[filtered_data['Latitude'].mean(), filtered_data['Longitude'].mean()], zoom_start=4)
         for index, row in filtered_data.iterrows():
             folium.Marker(
                 location=[row['Latitude'], row['Longitude']],
