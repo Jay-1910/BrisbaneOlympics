@@ -12,7 +12,7 @@ logo = logo.resize(new_size)
 
 # Define valid credentials
 valid_username = ["jay", "genene"]
-valid_password = ["DTA"]
+valid_password = ["JAYDTA"]
 
 # Check if user is logged in
 if 'logged_in' not in st.session_state:
