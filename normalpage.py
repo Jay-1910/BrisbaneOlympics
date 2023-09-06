@@ -5,8 +5,9 @@ import numpy as np
 import folium
 from streamlit_folium import folium_static
 import openai
+import os
 
-openai.api_key = st.secrets["key"]
+os.environ['OPENAI_API_KEY'] = st.secrets['OPENAI_API_KEY']
 
 system_message = (
     "Guidelines for Chatbot Responses:\n\n"
