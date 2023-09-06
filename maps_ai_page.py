@@ -5,8 +5,10 @@ import numpy as np
 import folium
 from streamlit_folium import folium_static
 import openai
+import os
 
-openai.api_key = st.secrets["key"]
+
+os.environ['OPENAI_API_KEY'] = st.secrets['OPENAI_API_KEY']
 
 filter_ping = ("You have 2 functions: filter_df_and_save_by_sport('sport name') and filter_df_and_save_by_city('city name')\n"
 "Based on the User question, just give me the appropriate function with argument (replace with sport_name or city_name) such as filter_df_and_save_by_sport('volleyball') and filter_df_and_save_by_city('brisbane'). You must not provide anything other text in your response other than function.\n")
