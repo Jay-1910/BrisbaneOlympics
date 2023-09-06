@@ -33,6 +33,9 @@ def show_sidebar():
 
 def show_pages():
     if selected_page == "Explore AI":
+        st.session_state.messages = []
+        st.session_state.conversation_history = []
+        st.session_state.conversation_initialized = False
         show_ai_maps()
     elif selected_page == "Olypics Venues":
         show_normal_maps()
@@ -64,4 +67,3 @@ if not st.session_state.logged_in:
 if st.session_state.logged_in:
     show_sidebar()
     show_pages()
-
